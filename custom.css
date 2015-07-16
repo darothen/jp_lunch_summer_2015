@@ -1,0 +1,15 @@
+#logos {
+  text-align: center;
+  display: block;
+}
+
+#logos img {
+    display: inline-block;
+    float: left;
+    height: 100px;
+}
+
+.centered {
+    display: block;
+    text-align: center;
+}
